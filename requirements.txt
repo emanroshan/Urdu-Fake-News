@@ -1,0 +1,10 @@
+pandas
+numpy
+regex
+tqdm
+transformers
+torch
+scikit-learn
+urduhack
+accelerate
+sentencepiece
